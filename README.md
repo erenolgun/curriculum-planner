@@ -1,4 +1,4 @@
-# automatic-curriculum-planner
+# curriculum-planner
 This project has been implemented to learn Python from scratch for CENG206 - Programming Languages lesson. In this project, I have implemented an automatic course planner for a curriculum semester of a department with using Python. In the
 curriculum, there are several courses for each year of the curriculum. The program assign a classroom and a time slot
 for each course in the curriculum. Courses in the same year should not be intersected with each other. 
